@@ -1,0 +1,216 @@
+---
+title: "SSI Fellowship Application"
+title-slide-attributes:
+  data-background-image: images/title-slide-new.png
+  data-background-size: contain
+format: 
+  revealjs:
+    theme: custom.scss
+    progress: false
+    menu: false
+    width: 1280
+    height: 720
+    margin: 0.2
+---
+
+## Professionally {.inverse .smaller80}
+
+[Research Software Engineer at the University of Warwick]{.blue}
+
+["Sustainability and EDI in the R Project" (with Heather Turner)]{.orange}
+
+[Fostering a larger and more diverse community of contributors to base R]{.green}
+
+![](images/r_sprint_group_friday.jpeg)
+
+## What I do {.inverse}
+
+::::{.columns}
+:::{.column width="60%"}
+[Contribute to base R]{.green}
+
+[Run R Dev Days]{.blue}
+
+[Organise conferences]{.pink}
+
+[Teach, workshops, study groups]{.red}
+
+[Give talks]{.orange}
+
+[Community-building]{.yellow}
+:::
+
+:::{.column width="40%"}
+![](images/ella-hanne-useR-2024.jpg)
+:::
+::::
+
+## EDIA advocate {.inverse}
+
+[Under-represented AND privileged]{.green}
+
+[EDIA panel at the RSEs in Data and AI workshop]{.pink}
+
+[DiveRSE talk]{.red}
+
+[SSI Inclusive research partner]{.blue}
+
+# [rainbowR]{.yellow} {.inverse .larger150}
+
+a [community of practice]{.green} that
+[connects]{.red}, [supports]{.orange} and [promotes]{.yellow} [LGBTQ+]{.pink} people in the [R community]{.blue} and spreads awareness of [LGBTQ+]{.pink} issues through [data-driven activism]{.green}
+
+# {.inverse .center .center-h .larger200}
+
+☀️ 💧
+
+[**nurture rainbowR**]{.orange} 
+
+❤️ 👯
+
+[**make it sustainable**]{.green}
+
+🌈 🌷
+
+
+## How? {.inverse}
+
+[Mini-conference/symposium]{.blue}
+
+[Exchange of practice with other communities, including OLS and The Turing Way]{.green}
+
+[Training (e.g. CSCCE)]{.red}
+
+[Clear and varied pathways to engagement]{.orange}
+
+[Formalise and expand the committee]{.pink}
+
+
+## Budget / fellowship support {.inverse}
+
+[Technical infrastucture for mini-conference, making it accessible and inclusive.]{.red}
+
+[Travel to meet with other community of practice leaders]{.orange}
+
+[Paid training]{.yellow}
+
+[Use SSI channels to promote the conference, and rainbowR more generally]{.green}
+
+[SSI fellowship mentor]{.blue}
+
+[Opportunities to meet, learn from and share experiences with other fellows and SSI members]{.pink}
+
+## Outcomes {.inverse}
+
+[A stronger rainbowR community of practice, with a more empowered and engaged membership and team]{.green}
+
+[Broadened access and contributions to the research software community]{.orange}
+
+[EDIA in the research software community]{.blue}
+
+[Share what I learn with other communities, e.g. the QueeRSE network]{.red}
+
+## {.center-h .inverse}
+
+[ellakaye.co.uk]{.larger200 .yellow}
+
+![](images/ellakaye-homepage.png)
+
+## {.center-h .inverse}
+
+[rainbowr.org]{.larger200 .yellow}
+
+![](images/rainbowR-hex.svg)
+
+
+
+## {.inverse .center .center-h .larger200}
+
+We [exist]{.yellow}
+
+(Some of) what we [do]{.green}
+
+How to [get involved]{.orange}
+
+## {.inverse .center-h .center .larger175}
+
+Our mission is to [connect]{.red}, [support]{.orange} and [promote]{.yellow} [LGBTQ+]{.green} people in the [R community]{.blue} and to spread awareness of LGBTQ+ issues through [data-driven activism]{.pink}
+
+## {.inverse .center-h .center .larger250}
+
+[connect]{.red} 
+
+[support]{.orange}
+
+[promote]{.yellow}
+
+## {background-image="images/rainbowR-meetup-oct.svg" background-size="contain"}
+
+::: {.notes}
+
+TODO: friendly and supportive, people show stuff they've never shown before, it's a safe space.
+
+UTC varies to make it equivalent to 5pm UK time
+
+rainbowR hosts a monthly meet-up for community members to 
+
+- Connect with each other
+- Stay updated on rainbowR developments
+- And to join in an informal 'show and tell', for example to showcase a project or R package they've been working on
+
+The meet-ups are held on the third Wednesday of each month at 4pm UTC.
+
+You can convert this time to your local timezone using the `lubridate` package in R. The next meet-up, on July 24th at 4pm UTC, will take place at 6pm here in Salzburg.
+:::
+
+## {.center .center-h .center .larger175}
+
+Encourage deeper [connections]{.red} with [randomly]{.blue} assigned [buddy]{.pink}
+
+![](images/rainbow-buddies.png){fig-align="center"}
+
+::: {.notes}
+- Encourage deeper connections
+- Opt-in via a sign-up form
+- Buddy pairs randomly assigned
+- Introduction emails sent to each pair
+- [**googlesheets4**, **dplyr**, **blastula**]{.black}
+- New round every three(ish) months
+- Next pairs September 1st
+:::
+
+## {.inverse .center-h .center .larger250}
+
+[data-driven activism]{.pink} 
+
+## {.center-h}
+
+![](images/tidyRainbow.svg){fig-align="center"}
+[**github.com/r-lgbtq/tidyrainbow**](https://github.com/r-lgbtq/tidyrainbow){.larger150}
+
+## {background-image="images/queer-data.jpeg" background-size="contain"}
+
+## {.inverse .center-h .center .larger250}
+
+[get involved]{.green}
+
+## {.inverse .center .center-h .larger200}
+
+[rainbowr.org/join]{.yellow}
+
+email, Slack, newsletter
+
+[tech.lgbt/@rainbowR]{.green}
+
+[hello@rainbowr.org]{.orange}
+
+::: {.notes}
+#psot-conf-2024-seattle channel
+:::
+
+
+## {.center-h .inverse}
+
+[rainbowr.org]{.larger250 .yellow}
+
+![](images/rainbowR-hex.svg)
